@@ -1,4 +1,4 @@
 -- Write a query that selects all albums made after 2010
-SELECT albums
+SELECT name
 FROM albums
 WHERE release_year > 2010;
